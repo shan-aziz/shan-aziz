@@ -1,4 +1,5 @@
-<h1>Hi, I'm Shan! <br/><a href="https://github.com/shan-aziz">Data Analyst | Proficient in R, Python, and SQL | Bioinformatics Data Analyst | MS Bioinformatics @UT Dallas | Former Research Associate at GCUF</a>
+<h1>Hi, I'm Shan! <br/><a href="https://github.com/shan-aziz">Data Analyst | Bioinformatics Data Analyst | Clinical Data Analyst</a>
+                  <br/><a href="https://github.com/shan-aziz"> MS Bioinformatics @UT Dallas | Former Research Associate at GCUF</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
